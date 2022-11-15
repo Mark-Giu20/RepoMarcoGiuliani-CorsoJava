@@ -6,3 +6,4 @@
 ----> 11/11/2022: Caricato Esercizi else-if e Scanner - Marco Giuliani              
 ----> 15/11/2022: Caricato CicliEIteratori - Marco Giuliani                
 ----> 15/11/2022: Caricato ArrayEsercizio - Marco Giuliani               
+----> 15/11/2022: Caricato ArrayListEsercizio - Marco Giuliani            
